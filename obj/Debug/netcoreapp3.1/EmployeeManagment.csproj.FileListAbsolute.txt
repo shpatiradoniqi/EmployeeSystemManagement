@@ -1,0 +1,5 @@
+C:\Users\shpat\source\repos\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.csprojAssemblyReference.cache
+C:\Users\shpat\source\repos\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.AssemblyInfoInputs.cache
+C:\Users\shpat\source\repos\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.AssemblyInfo.cs
+C:\Users\shpat\source\repos\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.csproj.CoreCompileInputs.cache
+C:\Users\shpat\source\repos\EmployeeManagment\obj\Debug\netcoreapp3.1\EmployeeManagment.MvcApplicationPartsAssemblyInfo.cache
